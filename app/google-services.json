@@ -1,0 +1,86 @@
+{
+  "project_info": {
+    "project_number": "501274193692",
+    "firebase_url": "https://swivliapp.firebaseio.com",
+    "project_id": "swivliapp",
+    "storage_bucket": "swivliapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:501274193692:android:9361e3e0a4ad4b6f",
+        "android_client_info": {
+          "package_name": "com.swivli.android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "501274193692-3sltnhj8u83sc71b1j3ll1mgaoh4q1sl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfRUtkMYmzpvY0fmWp--5brDviC7tm-JE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:501274193692:android:e7ccd20ee7844ed1",
+        "android_client_info": {
+          "package_name": "com.androidchatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "501274193692-1hq7p2m18d1shv1a88ea4fn3ntga25fg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.androidchatapp",
+            "certificate_hash": "fd61d44fb37b62f690264441c6df9730a550715b"
+          }
+        },
+        {
+          "client_id": "501274193692-3sltnhj8u83sc71b1j3ll1mgaoh4q1sl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfRUtkMYmzpvY0fmWp--5brDviC7tm-JE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "501274193692-3sltnhj8u83sc71b1j3ll1mgaoh4q1sl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
